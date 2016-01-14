@@ -4,8 +4,11 @@ This project is an attempt to develop a publicly available parser which can pars
 If you are planning to explore Android's Binary XML, my code base can help you to start and build service on top of it.
 
 Version 1.0- is capable of parsing Android Manifest, XML layouts etc. and converting DEX/ODEX to CLASS, which can be opened by any de-compiler.
+Share your feedback on my <a href='http://prasanta-paul.blogspot.in/' target='_blank'>blog</a>. I'm listening :-)
 
-Share your feedback on my blog. I'm listening :-)
+#Usage in Other Projects
+apk-manifest-extractor (https://github.com/matthill/apk-manifest-extractor)
+
 #License
 Copyright 2015 Prasanta Paul (http://prasanta-paul.blogspot.in/)
 

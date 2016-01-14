@@ -8,6 +8,7 @@ Share your feedback on my <a href='http://prasanta-paul.blogspot.in/' target='_b
 
 #Usage in Other Projects
 apk-manifest-extractor (https://github.com/matthill/apk-manifest-extractor)
+aminc (https://github.com/gregko/aminc)
 
 #License
 Copyright 2015 Prasanta Paul (http://prasanta-paul.blogspot.in/)
